@@ -1,0 +1,10 @@
+Put your profile photo here as:
+
+profile.jpg
+
+Recommended size:
+- square image
+- at least 400 x 400 px
+- clear face, simple background
+
+The portfolio will show initials until profile.jpg is added.
